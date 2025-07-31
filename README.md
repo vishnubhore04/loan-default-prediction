@@ -15,4 +15,4 @@ This project predicts whether a loan will default using Logistic Regression.
 
 ## 🚀 Run the App
 ```bash
-streamlit run app/streamlit_app.py
+https://vishnubhore04-loan-default-prediction-app-izu92u.streamlit.app/
